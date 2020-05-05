@@ -85,11 +85,15 @@ footer {
 
 .reciept-contianer section {
   padding: 15px;
-  background: linear-gradient(0deg, #ff506e 43%, #3e3d3d 43%);
+  background: linear-gradient(0deg, rgb(152, 13, 13) 43%, #3e3d3d 43%);
   border-style: solid;
   border-width: 5px;
   border-radius: 10px;
-  border-color: #ff506e;
+  border-color: rgb(152, 13, 13);
+}
+
+.reciept-container section p {
+  color: white;
 }
 
 .reciept-contianer section img {
